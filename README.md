@@ -24,7 +24,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Zeey-No's GitHub stats](https://github-readme-stats.vercel.app/api?Zeey-No=Zeey-No&show_icons=true&theme=tokyonight)
+![Zeey-No's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeey-No&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeey-No&layout=compact&theme=tokyonight)
 
