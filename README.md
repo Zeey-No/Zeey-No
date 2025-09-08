@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Zeey-No]
 
 🚀 **QA Automation Engineer** | Breaking things so you don’t have to 🧪  
 
@@ -24,9 +24,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Zeey-No's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Zeey-No's GitHub stats](https://github-readme-stats.vercel.app/api?Zeey-No=Zeey-No&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeey-No&layout=compact&theme=tokyonight)
 
 ---
 
